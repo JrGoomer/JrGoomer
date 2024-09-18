@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JrGoomer
 - 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning several stuff
+- 🌱 I’m currently working as a Cybersecurity Engineer
 - 📫 How to reach me XTiago11@gmail.com
 
 <!---
